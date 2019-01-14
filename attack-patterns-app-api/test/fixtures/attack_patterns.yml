@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  created_by_ref: MyString
+  name: MyString
+  description: MyText
+  type: 
+  x_mitre_version: MyString
+  x_mitre_detection: MyString
+  modified: MyString
+  created: MyString
+  external_references: 
+  kill_chain_phases: 
+
+two:
+  id: MyString
+  created_by_ref: MyString
+  name: MyString
+  description: MyText
+  type: 
+  x_mitre_version: MyString
+  x_mitre_detection: MyString
+  modified: MyString
+  created: MyString
+  external_references: 
+  kill_chain_phases: 

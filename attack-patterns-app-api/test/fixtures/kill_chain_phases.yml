@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phase_name: MyString
+  kill_chain_name: MyString
+  AttackPattern: one
+
+two:
+  phase_name: MyString
+  kill_chain_name: MyString
+  AttackPattern: two
